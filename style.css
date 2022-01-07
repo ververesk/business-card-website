@@ -105,7 +105,7 @@ body {
 }
 
 .skills-list dt {
-  padding-left: 32px;
+  padding-left: 62px;
   background-repeat: no-repeat;
   background-position: left;
 }
@@ -116,6 +116,30 @@ body {
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+}
+
+.skill-java {
+  background-image: url("img/java_original_wordmark_logo_icon_146459.svg");
+}
+
+.skill-servlet {
+  background-image: url("img/api_interface_icon_150308.svg");
+}
+
+.skill-spring {
+  background-image: url("img/seedling_spring_leaf_icon_206199.svg");
+}
+
+.skill-hibernate {
+  background-image: url("img/hibernate_logo_icon_171004.svg");
+}
+
+.skill-jsp {
+  background-image: url("img/file_type_jsp_icon_130498.svg");
+}
+
+.skill-sql {
+  background-image: url("img/file_type_sql_icon_130152.svg");
 }
 
 .level {
